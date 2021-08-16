@@ -31,7 +31,7 @@ https://kubernetes.io/docs/tasks/tools/
 
 ### 4 - Crie o cluster eks.
 
-- O comando a baixo vai criar um cluster de EKS com 4 subnets, 2 zonas, 2 máquinas m4.large
+- O comando a baixo vai criar um cluster de EKS com 4 subnets, 2 zonas, 2 máquinas m5.large
 
 ```console
 eksctl create cluster
