@@ -3,7 +3,7 @@
 Não é necessário instalar, pois trata-se de um serviço gerenciado. Porém uma configuração inicial é necessária.
 
 
-# 1 - Criação de Policy necessária.
+### 1 - Criação de Policy necessária.
 
 - É necessária a criação de uma policy especifica para ser possível o seu uso.
 
@@ -105,7 +105,7 @@ Não é necessário instalar, pois trata-se de um serviço gerenciado. Porém um
 }
 ```
 
-# 2 - Criar/Editar Role
+### 2 - Criar/Editar Role
 
 - Para associar uma Role ao serviço FIS, é necessário habilitar a role a isso.
 
